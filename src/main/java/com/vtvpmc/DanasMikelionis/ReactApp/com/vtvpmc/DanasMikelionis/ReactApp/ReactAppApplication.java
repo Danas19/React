@@ -1,4 +1,4 @@
-package com.vtvpmc.DanasMikelionis.ReactApp;
+package com.vtvpmc.DanasMikelionis.ReactApp.com.vtvpmc.DanasMikelionis.ReactApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

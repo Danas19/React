@@ -1,3 +1,6 @@
+testDB.db.mv.db
+testDB.db.lock.db
+
 .mvn/
 mvnw
 mvnw.cmd
