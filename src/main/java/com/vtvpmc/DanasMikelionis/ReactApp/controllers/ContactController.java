@@ -13,6 +13,7 @@ import com.vtvpmc.DanasMikelionis.ReactApp.models.Contact;
 import com.vtvpmc.DanasMikelionis.ReactApp.repositories.ContactRepository;
 
 @RestController
+@RequestMapping(value="api/contacts")
 public class ContactController {
 
     @Autowired
